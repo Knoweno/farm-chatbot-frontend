@@ -1,1 +1,0 @@
-# farm-chatbot-frontend
